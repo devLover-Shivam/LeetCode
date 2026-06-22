@@ -16,10 +16,12 @@ class Node{
 }
 
 public class completeSolution {
+
+    
     static Node findMiddle(Node head){
         if(head==null || head.next == null) return head;
-
-        int cnt = 0;
+        //BRUTE FORCE APPROACH
+       /*  int cnt = 0;
         Node temp = head;
         while(temp!=null){
             cnt++;
@@ -33,7 +35,18 @@ public class completeSolution {
             if(middleNode == 0) break;
             temp = temp.next;
         }
-        return temp;
+        return temp; */
+
+        //OPTIMAL SOLUTION
+
+        Node fast = head;
+        Node slow = head;
+
+        while(fast!= null && fast.next!=null){
+            slow= slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
     }
 
     public static void main(String[] args) {
