@@ -39,6 +39,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0033-search-in-rotated-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,5 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
