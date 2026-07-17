@@ -11,6 +11,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -49,6 +50,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,4 +97,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
