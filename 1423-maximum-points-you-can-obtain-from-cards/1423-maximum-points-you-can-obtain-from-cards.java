@@ -11,13 +11,18 @@ class Solution {
             maxSum = lSum;
             
         }
+        if (k == n) {
+            return lSum;
+        }
         int rIndex  = n-1;
+
         for(int i = k-1; i>=0;i--){
             lSum = lSum - cardPoints[i];
             rSum = rSum + cardPoints[rIndex];
             rIndex = rIndex-1;
             maxSum = Math.max(maxSum, lSum+rSum);
         }
+        
 
         return maxSum;
     }
