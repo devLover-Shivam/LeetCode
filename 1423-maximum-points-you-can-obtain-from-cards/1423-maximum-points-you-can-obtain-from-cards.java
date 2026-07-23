@@ -5,6 +5,7 @@ class Solution {
         int maxSum = 0;
         int n = cardPoints.length;
 
+
         for(int i=0;i<=k-1;i++){
             lSum = lSum + cardPoints[i];
             maxSum = lSum;
