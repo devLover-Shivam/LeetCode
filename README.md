@@ -117,4 +117,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/devLover-Shivam/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
