@@ -125,4 +125,5 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0182-duplicate-emails](https://github.com/devLover-Shivam/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/devLover-Shivam/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/devLover-Shivam/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/devLover-Shivam/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
