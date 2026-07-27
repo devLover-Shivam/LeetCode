@@ -26,6 +26,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devLover-Shivam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devLover-Shivam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devLover-Shivam/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -49,6 +50,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -61,6 +63,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devLover-Shivam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devLover-Shivam/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -126,4 +129,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0183-customers-who-never-order](https://github.com/devLover-Shivam/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/devLover-Shivam/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/devLover-Shivam/LeetCode/tree/master/0197-rising-temperature) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
