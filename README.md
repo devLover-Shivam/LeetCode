@@ -13,6 +13,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | ------- |
 | [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/devLover-Shivam/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -50,6 +51,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -61,6 +63,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -85,6 +88,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
@@ -137,6 +141,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
