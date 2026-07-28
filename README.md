@@ -133,6 +133,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0197-rising-temperature](https://github.com/devLover-Shivam/LeetCode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/devLover-Shivam/LeetCode/tree/master/0577-employee-bonus) |
+| [1068-product-sales-analysis-i](https://github.com/devLover-Shivam/LeetCode/tree/master/1068-product-sales-analysis-i) |
 ## Monotonic Stack
 |  |
 | ------- |
