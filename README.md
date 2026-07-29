@@ -39,6 +39,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0003-longest-substring-without-repeating-characters](https://github.com/devLover-Shivam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -52,6 +53,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | ------- |
 | [0020-valid-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/devLover-Shivam/LeetCode/tree/master/0735-asteroid-collision) |
@@ -130,6 +132,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +153,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/devLover-Shivam/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
