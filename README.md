@@ -77,6 +77,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0084-largest-rectangle-in-histogram](https://github.com/devLover-Shivam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devLover-Shivam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devLover-Shivam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -119,6 +120,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devLover-Shivam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devLover-Shivam/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -179,4 +181,16 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/devLover-Shivam/LeetCode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
