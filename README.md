@@ -157,6 +157,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0511-game-play-analysis-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/devLover-Shivam/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/devLover-Shivam/LeetCode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/devLover-Shivam/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1068-product-sales-analysis-i](https://github.com/devLover-Shivam/LeetCode/tree/master/1068-product-sales-analysis-i) |
 ## Monotonic Stack
 |  |
