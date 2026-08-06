@@ -1,11 +1,16 @@
 # Write your MySQL query statement below
-select distinct l1.num as ConsecutiveNums
-from Logs as l1
-join Logs as l2
-on l2.id = l1.id+1
-join Logs as l3
-on l3.id = l1.id+2
-where l1.num = l2.num
-and l2.num = l3.num;
+select distinct num as ConsecutiveNums
+from
+(
+    select
+        num,
+        lead(num,1) over(order by id) as next_num,
+        lead(num,2) over(order by id) as
+        next_next_num
+    from Logs
+) as t
+where
+    num = next_num
+and num = next_next_num;
    
     
