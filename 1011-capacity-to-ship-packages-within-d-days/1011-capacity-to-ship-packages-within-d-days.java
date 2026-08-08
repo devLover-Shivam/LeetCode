@@ -26,15 +26,15 @@ class Solution {
     }
     //Helper function to calculate the total number of days that a certain wt capacity of ship will take to ship the packages.
     private int func(int weights[], int capacity){
-        int currWt =0;
+        int load =0;
         int days = 1;
         for(int i=0;i<weights.length;i++){
-            if(currWt + weights[i]> capacity){
+            if(load + weights[i]> capacity){
                 days++;
-                currWt = weights[i];
+                load = weights[i];
             }
             else{
-                currWt += weights[i];
+                load += weights[i];
             }
         }
         return days;
