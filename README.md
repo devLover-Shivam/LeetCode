@@ -35,6 +35,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0992-subarrays-with-k-different-integers](https://github.com/devLover-Shivam/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -47,11 +48,13 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/devLover-Shivam/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -240,4 +243,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
