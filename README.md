@@ -53,6 +53,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0434-number-of-segments-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devLover-Shivam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devLover-Shivam/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -76,6 +77,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0901-online-stock-span](https://github.com/devLover-Shivam/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devLover-Shivam/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devLover-Shivam/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/devLover-Shivam/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
