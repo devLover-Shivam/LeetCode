@@ -2,20 +2,21 @@ class Solution {
     public String reverseWords(String s) {
         s = new StringBuilder(s).reverse().toString();
 
-        String ans  = "";
+        StringBuilder ans  = new StringBuilder();
 
 
         for(int i = 0; i<s.length();i++){
-            String word = "";
+           StringBuilder word  = new StringBuilder();
+
             while(i<s.length() && s.charAt(i) !=' '){
-                word += s.charAt(i);
+                word.append(s.charAt(i));
                 i++;
             }
 
-            word = new StringBuilder(word).reverse().toString();
+            word.reverse();
 
             if(word.length()>0){
-                ans += " "+word;
+                ans.append(" ").append(word);
             }
         }
 
