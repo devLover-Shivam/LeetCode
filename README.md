@@ -121,6 +121,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [1539-kth-missing-positive-number](https://github.com/devLover-Shivam/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/devLover-Shivam/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/devLover-Shivam/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devLover-Shivam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -159,6 +160,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/devLover-Shivam/LeetCode/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/devLover-Shivam/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devLover-Shivam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
