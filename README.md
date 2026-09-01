@@ -17,6 +17,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/devLover-Shivam/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/devLover-Shivam/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devLover-Shivam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -108,6 +109,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
