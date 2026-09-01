@@ -29,6 +29,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devLover-Shivam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/devLover-Shivam/LeetCode/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/devLover-Shivam/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
