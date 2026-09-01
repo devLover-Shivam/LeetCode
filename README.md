@@ -33,6 +33,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0003-longest-substring-without-repeating-characters](https://github.com/devLover-Shivam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/devLover-Shivam/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devLover-Shivam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -105,6 +106,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0162-find-peak-element](https://github.com/devLover-Shivam/LeetCode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/devLover-Shivam/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -137,6 +139,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devLover-Shivam/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/devLover-Shivam/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -192,6 +195,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | ------- |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/devLover-Shivam/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -201,6 +205,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Database
 |  |
@@ -269,6 +274,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0136-single-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
