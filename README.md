@@ -21,6 +21,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0151-reverse-words-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/devLover-Shivam/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devLover-Shivam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/devLover-Shivam/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -37,6 +38,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/devLover-Shivam/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devLover-Shivam/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -114,6 +116,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0240-search-a-2d-matrix-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -148,6 +151,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0162-find-peak-element](https://github.com/devLover-Shivam/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/devLover-Shivam/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -207,6 +211,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0088-merge-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/devLover-Shivam/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
