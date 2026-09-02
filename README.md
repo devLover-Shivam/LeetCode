@@ -12,6 +12,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0001-two-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/devLover-Shivam/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
