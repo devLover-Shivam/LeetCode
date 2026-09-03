@@ -24,6 +24,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0349-intersection-of-two-arrays](https://github.com/devLover-Shivam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/devLover-Shivam/LeetCode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devLover-Shivam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/devLover-Shivam/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devLover-Shivam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0349-intersection-of-two-arrays](https://github.com/devLover-Shivam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/devLover-Shivam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -219,12 +221,14 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devLover-Shivam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -304,4 +308,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devLover-Shivam/LeetCode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
