@@ -28,6 +28,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0557-reverse-words-in-a-string-iii](https://github.com/devLover-Shivam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/devLover-Shivam/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devLover-Shivam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +148,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [1929-concatenation-of-array](https://github.com/devLover-Shivam/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/devLover-Shivam/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devLover-Shivam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0349-intersection-of-two-arrays](https://github.com/devLover-Shivam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +232,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
