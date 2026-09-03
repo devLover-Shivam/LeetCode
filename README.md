@@ -30,6 +30,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devLover-Shivam/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/devLover-Shivam/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -227,6 +228,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/devLover-Shivam/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Database
