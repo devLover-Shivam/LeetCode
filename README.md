@@ -108,6 +108,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0045-jump-game-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devLover-Shivam/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/devLover-Shivam/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/devLover-Shivam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
