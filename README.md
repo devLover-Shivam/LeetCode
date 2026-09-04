@@ -126,6 +126,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0349-intersection-of-two-arrays](https://github.com/devLover-Shivam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/devLover-Shivam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -188,6 +189,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0085-maximal-rectangle](https://github.com/devLover-Shivam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devLover-Shivam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/devLover-Shivam/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
@@ -228,6 +230,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devLover-Shivam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -238,6 +241,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0055-jump-game](https://github.com/devLover-Shivam/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/devLover-Shivam/LeetCode/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
