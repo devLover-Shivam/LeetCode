@@ -66,6 +66,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0434-number-of-segments-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/devLover-Shivam/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devLover-Shivam/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devLover-Shivam/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -87,6 +88,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0402-remove-k-digits](https://github.com/devLover-Shivam/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/devLover-Shivam/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/devLover-Shivam/LeetCode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/devLover-Shivam/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/devLover-Shivam/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -191,6 +193,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devLover-Shivam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/devLover-Shivam/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
@@ -244,6 +247,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/devLover-Shivam/LeetCode/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
@@ -329,4 +333,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/devLover-Shivam/LeetCode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
