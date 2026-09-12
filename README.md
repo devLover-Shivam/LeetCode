@@ -108,6 +108,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0031-next-permutation](https://github.com/devLover-Shivam/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devLover-Shivam/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/devLover-Shivam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
@@ -362,4 +363,8 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devLover-Shivam/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
