@@ -123,6 +123,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0057-insert-interval](https://github.com/devLover-Shivam/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/devLover-Shivam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/devLover-Shivam/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/devLover-Shivam/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/devLover-Shivam/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -334,6 +335,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/devLover-Shivam/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -375,6 +377,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | ------- |
 | [0039-combination-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/devLover-Shivam/LeetCode/tree/master/0078-subsets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
