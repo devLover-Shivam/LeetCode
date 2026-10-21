@@ -1,10 +1,13 @@
 class Solution {
-    private boolean isPalindrome(String s){
-        StringBuilder s2 = new StringBuilder(s);
-        s2.reverse();
-        return s.equals(s2.toString());
+    static boolean isPalindrome(String s){
+        int start = 0;
+        int end = s.length()-1;
+          while(start<=end){
+            if(s.charAt(start++)!=s.charAt(end--))return false;
+          }
+          return true;
     }
-    private void getAllParts(String s,List<String> partitions,List<List<String>> ans ){
+    static void getAllParts(String s,List<String> partitions,List<List<String>> ans ){
         if(s.length() == 0){
             ans.add(new ArrayList<>(partitions));
             return;
