@@ -66,6 +66,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0020-valid-parentheses](https://github.com/devLover-Shivam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/devLover-Shivam/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/devLover-Shivam/LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/devLover-Shivam/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/devLover-Shivam/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0344-reverse-string) |
@@ -208,6 +209,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0055-jump-game](https://github.com/devLover-Shivam/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/devLover-Shivam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devLover-Shivam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/devLover-Shivam/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/devLover-Shivam/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/devLover-Shivam/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -389,6 +391,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0051-n-queens](https://github.com/devLover-Shivam/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/devLover-Shivam/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/devLover-Shivam/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
