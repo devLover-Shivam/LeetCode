@@ -45,6 +45,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0001-two-sum](https://github.com/devLover-Shivam/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devLover-Shivam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/devLover-Shivam/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/devLover-Shivam/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -127,6 +128,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0053-maximum-subarray](https://github.com/devLover-Shivam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devLover-Shivam/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/devLover-Shivam/LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devLover-Shivam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/devLover-Shivam/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/devLover-Shivam/LeetCode/tree/master/0078-subsets) |
@@ -322,6 +324,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devLover-Shivam/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/devLover-Shivam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/devLover-Shivam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/devLover-Shivam/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devLover-Shivam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
