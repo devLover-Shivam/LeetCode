@@ -60,6 +60,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/devLover-Shivam/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0992-subarrays-with-k-different-integers](https://github.com/devLover-Shivam/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/devLover-Shivam/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/devLover-Shivam/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/devLover-Shivam/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [2104-sum-of-subarray-ranges](https://github.com/devLover-Shivam/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devLover-Shivam/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/devLover-Shivam/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/devLover-Shivam/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +287,7 @@ My LeetCode journey documenting solutions, patterns, and problem-solving approac
 | [0060-permutation-sequence](https://github.com/devLover-Shivam/LeetCode/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/devLover-Shivam/LeetCode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devLover-Shivam/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/devLover-Shivam/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Database
 |  |
 | ------- |
